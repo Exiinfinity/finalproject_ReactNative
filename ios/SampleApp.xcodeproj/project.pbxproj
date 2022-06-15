@@ -86,6 +86,7 @@
 		13B07FAE1A68108700A75B9A /* SampleApp */ = {
 			isa = PBXGroup;
 			children = (
+				F1B50BE22858EC2700E23603 /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -145,8 +146,14 @@
 				85833ECA87FDC0583D9F36E3 /* Pods-SampleApp-SampleAppTests.debug.xcconfig */,
 				D7E631118BDDE9D496945593 /* Pods-SampleApp-SampleAppTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		F1B50BE22858EC2700E23603 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
